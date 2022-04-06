@@ -2,6 +2,7 @@
 
 **Steps To implement The sms Preview in this(Almost Same for java)**
 
+[This is an external link to genome.gov] (https://www.genome.gov/)
 **Note - I have refer this site to do this project and guid youe acordingly**
 
 => Create New android project name SMS Reader
