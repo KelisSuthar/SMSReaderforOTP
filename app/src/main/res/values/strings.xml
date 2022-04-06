@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMSReaderforOTP</string>
+
+    <string name="send_otp">Send OTP</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="received_message">Received Message</string>
+    <string name="verify_otp">Verify OTP</string>
+</resources>
