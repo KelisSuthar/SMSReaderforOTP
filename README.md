@@ -3,7 +3,8 @@
 **Steps To implement The sms Preview in this(Almost Same for java)**
 
 (https://androidwave.com/auto-read-otp-android-user-consent-api/)
-[**Note - I have refer this site to do this project and guid youe acordingly**] 
+
+[**Note - I have refer this site to do this project and guide youe acordingly**] 
 
 
 => Create New android project name SMS Reader
