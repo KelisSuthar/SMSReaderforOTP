@@ -1,4 +1,4 @@
-# SMSReaderforOTP# Welcome To SMS Reader (For OTP you can get OTP from sms)
+# Welcome To SMS Reader (For OTP you can get OTP from sms) #
 
 **Steps To implement The sms Preview in this(Almost Same for java)**
 
